@@ -1,3 +1,7 @@
-body {
+.text::first-line {
     background-color: red;
+}
+
+::selection {
+    background-color: orange;
 }
